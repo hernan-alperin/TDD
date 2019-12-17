@@ -184,7 +184,7 @@ latex_elements = {
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'sample.tex', u'sample Documentation',
-   u'Kenneth Reitz', 'manual'),
+   u'Hernán Alperin', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -214,7 +214,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'sample', u'sample Documentation',
-     [u'Kenneth Reitz'], 1)
+     [u'Hernán Alperin'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -228,7 +228,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'sample', u'sample Documentation',
-   u'Kenneth Reitz', 'sample', 'One line description of project.',
+   u'Hernán Alperin', 'sample', 'One line description of project.',
    'Miscellaneous'),
 ]
 

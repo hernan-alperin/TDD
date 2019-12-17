@@ -20,3 +20,13 @@ class Componente:
     def get_type(self):
         pass
 
+class Lado(Componente):
+
+    def get_manzana(self):
+        pass
+
+class Manzana(Componente):
+
+    def get_lados(self):
+        pass
+

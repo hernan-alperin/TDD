@@ -1,4 +1,4 @@
-from componente import Componente
+from componente import Componente, Manzana, Lado
 
 class Componentes(list):
 
